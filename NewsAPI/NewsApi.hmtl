@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Api Project</title>
+    <link href="NewsApi.css" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <div class="navbar obj-width">
+            <a  class="logo" href="NewsAPI.html">News Junction.</a>
+            <div class ="search-container">
+                <input type="text" placeholder="Search news here.." id="search-input">
+                <button id="search-button">Search</button>
+            </div>
+        </div>
+    </nav>
+
+    <main id="blog-container">
+        <!-- <div class="blog-card">
+            <img src="https://placehold.co/600x400" alt="">
+            <h2>This is a title</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quo, et cumque placeat sapiente expedita. Sapiente libero omnis a, aliquid corrupti officiis sit excepturi ducimus quasi animi mollitia, necessitatibus commodi.</p>
+        </div>
+        <div class="blog-card">
+            <img src="https://placehold.co/600x400" alt="">
+            <h2>This is a title</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quo, et cumque placeat sapiente expedita. Sapiente libero omnis a, aliquid corrupti officiis sit excepturi ducimus quasi animi mollitia, necessitatibus commodi.</p>
+        </div>
+        <div class="blog-card">
+            <img src="https://placehold.co/600x400" alt="">
+            <h2>This is a title</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quo, et cumque placeat sapiente expedita. Sapiente libero omnis a, aliquid corrupti officiis sit excepturi ducimus quasi animi mollitia, necessitatibus commodi.</p>
+        </div>
+        <div class="blog-card">
+            <img src="https://placehold.co/600x400" alt="">
+            <h2>This is a title</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quo, et cumque placeat sapiente expedita. Sapiente libero omnis a, aliquid corrupti officiis sit excepturi ducimus quasi animi mollitia, necessitatibus commodi.</p>
+        </div>
+        <div class="blog-card">
+            <img src="https://placehold.co/600x400" alt="">
+            <h2>This is a title</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quo, et cumque placeat sapiente expedita. Sapiente libero omnis a, aliquid corrupti officiis sit excepturi ducimus quasi animi mollitia, necessitatibus commodi.</p>
+        </div>
+        <div class="blog-card">
+            <img src="https://placehold.co/600x400" alt="">
+            <h2>This is a title</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quo, et cumque placeat sapiente expedita. Sapiente libero omnis a, aliquid corrupti officiis sit excepturi ducimus quasi animi mollitia, necessitatibus commodi.</p>
+        </div>
+        <div class="blog-card">
+            <img src="https://placehold.co/600x400" alt="">
+            <h2>This is a title</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quo, et cumque placeat sapiente expedita. Sapiente libero omnis a, aliquid corrupti officiis sit excepturi ducimus quasi animi mollitia, necessitatibus commodi.</p>
+        </div> -->
+
+    </main>
+
+    <script src="NewsApi.js"></script>
+</body>
+</html>
